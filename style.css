@@ -1,18 +1,38 @@
+.whole{
+    background-color: rgb(255, 253, 244)
+}
 .a1{
     margin: 50px 35% ;
     width: 40vw;
-    border: 1px solid black;
     height: 250px;
 }
 .a2{
     width: 20vw;
-    border: 1px solid black;
     height: 250px;
     float: right;
+    background-color: white;
+}
+.write_up{
+    padding: 10%;
+    font-size: xx-small;
 }
 .a3{
     width: 20vw;
-    border: 1px solid black;
     height: 250px;
+    background: url(/Project-6/Image/olena-sergienko-GOVTETevRm8-unsplash.jpg);
+    background-size: cover;
+}
+.a4{
+    text-align: center;
+    margin: 90px 0px 0px 20px;
+    width: 15vw;
+    font-size: 0.5em;
+    padding: 5px;
+    font-family: sans-serif;
+    color: white;
+    background-color: rgba(16, 119, 38, 0.836);
+    border-radius: 3px;
+}
+.a5{
     
 }
