@@ -15,6 +15,15 @@
 .write_up{
     padding: 10%;
     font-size: xx-small;
+    
+}
+.p{
+    letter-spacing: 2px;
+    font-weight: lighter;
+}
+.g{
+    font-size: x-large;
+    font-weight: 800;
 }
 .a3{
     width: 20vw;
@@ -32,7 +41,4 @@
     color: white;
     background-color: rgba(16, 119, 38, 0.836);
     border-radius: 3px;
-}
-.a5{
-    
 }
