@@ -5,38 +5,60 @@
     margin: 50px 35% ;
     width: 40vw;
     height: 250px;
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.349)
 }
 .a2{
     width: 20vw;
     height: 250px;
     float: right;
     background-color: white;
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
 }
 .write_up{
     padding: 10%;
     font-size: xx-small;
-    
+    margin: 0px;
 }
 .p{
+    font-size: smaller;
     letter-spacing: 2px;
     font-weight: lighter;
+    color: rgba(0, 0, 0, 0.568);
 }
 .g{
-    font-size: x-large;
+    font-size: large;
     font-weight: 800;
+
+}
+.a{
+    font: 1em sans-serif;
+    color: rgba(0, 0, 0, 0.568);
+    word-spacing: 2px;
+}
+.four{
+    font-size: large;
+    color: rgba(16, 119, 38, 0.836);
+    font-weight: bolder;
+}   
+.six{
+    padding: 0px 6px 0px 8px;
+    text-decoration: line-through;
 }
 .a3{
     width: 20vw;
     height: 250px;
     background: url(/Project-6/Image/olena-sergienko-GOVTETevRm8-unsplash.jpg);
     background-size: cover;
+    border-bottom-left-radius: 4px;
+    border-top-left-radius: 4px;
 }
 .a4{
     text-align: center;
-    margin: 90px 0px 0px 20px;
-    width: 15vw;
+    margin: 6px 0px 0px 18px;
+    width: 14vw;
     font-size: 0.5em;
-    padding: 5px;
+    padding: 8px;
     font-family: sans-serif;
     color: white;
     background-color: rgba(16, 119, 38, 0.836);
