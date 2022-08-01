@@ -48,10 +48,13 @@
 .a6{
     width: 20vw;
     height: 250px;
-    background: url(../Project-6/Image/olena-sergienko-GOVTETevRm8-unsplash.jpg);
     background-size: cover;
     border-bottom-left-radius: 4px;
     border-top-left-radius: 4px;
+}
+.img{
+    width: 20vw;
+    height: 250px;
 }
 .a4{
     text-align: center;
